@@ -1,5 +1,6 @@
 import { createRoot } from 'react-dom/client'
-import React from 'react'
+// @ts-ignore It's React
+import * as React from 'react'
 import { App } from './App'
 
 //@ts-ignore

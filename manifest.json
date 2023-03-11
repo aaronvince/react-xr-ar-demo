@@ -1,0 +1,11 @@
+{  
+  "name": "Todo PWA Application",  
+  "short_name": "Todo",  
+  "description": "To Do Progressive web application.",  
+  "start_url": "./index.html?home=true",  
+  "icons": [],  
+  "theme_color": "#111111",  
+  "background_color": "#DDDDDD",  
+  "display": "fullscreen",  
+  "orientation": "portrait"  
+}  
