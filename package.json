@@ -1,0 +1,32 @@
+{
+  "name": "react-xr-simple-ar-demo",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.tsx",
+  "dependencies": {
+    "@react-three/drei": "9.32.7",
+    "@react-three/fiber": "8.8.8",
+    "@react-three/xr": "5.0.3",
+    "@types/react": "18.0.21",
+    "@types/react-dom": "18.0.5",
+    "react": "18.1.0",
+    "react-dom": "18.1.0",
+    "react-scripts": "4.0.3",
+    "three": "0.145.0",
+    "troika-3d-text": "0.42.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
